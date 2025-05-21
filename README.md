@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Thanh Loi (Santo Ryu)</h1>
-<h3 align="center">I'm a passionate Fullstack Web, Mobile App & Security who loves building things with code and exploring new technologies.</h3>
+<h3 align="center">I'm a passionate Fullstack Web & Security who loves building things with code and exploring new technologies.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santo-Ryu](https://github.com/Santo-Ryu)
 
