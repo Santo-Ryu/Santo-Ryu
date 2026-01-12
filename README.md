@@ -1,14 +1,11 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+SANTO-RYU+%F0%9F%91%8B;Network+Security+Student+%F0%9F%9B%A1%EF%B8%8F;CTF+Forensics+Enthusiast+%F0%9F%94%8D;Cybersecurity+Researcher+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+SANTO-RYU+%F0%9F%91%8B;Network+Security+Student+%F0%9F%9B%A1%EF%B8%8F;CTF+Enthusiast+%F0%9F%94%8D;Cybersecurity+Researcher+%F0%9F%92%BB" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-### 🔐 Le Thanh Loi | Network Security @ VKU
-
-[![GitHub followers](https://img.shields.io/github/followers/Santo-Ryu?style=for-the-badge&logo=github&color=blue)](https://github.com/Santo-Ryu)
-[![GitHub stars](https://img.shields.io/github/stars/Santo-Ryu?style=for-the-badge&logo=github&color=yellow)](https://github.com/Santo-Ryu)
+### 🔐 Le Thanh Loi | Network Security
 
 </div>
 
@@ -23,19 +20,18 @@ name: Le Thanh Loi
 located_in: Da Nang, Vietnam
 current_edu: VKU University
 major: Network Security
-current_focus: CTF Forensics Training
+current_focus: CTF Training (RE, FOR)
 interests:
-  - Digital Forensics & Incident Response
-  - Penetration Testing
-  - Malware Analysis
-  - Security Research
-learning: Always exploring new attack vectors
+    - Digital Forensics, Incident Response
+    - Penetration Testing
+    - Malware Analysis & Reverse Engineering
+    - Security Research (Forensics & Reverse Engineering Focused)
 ```
 
-🔭 Currently training in **CTF Forensics** competitions  
-🌱 Expanding knowledge in **Incident Response** and **Threat Hunting**  
-💡 Passionate about **hands-on security challenges**  
-🎯 Goal: Contribute to real-world cybersecurity defense
+🔭 Training in CTF FOR & RE     
+🌱 Learning Incident Response, Threat Hunting & RE  
+💡 Love hands-on security & binary challenges   
+🎯 Aim: Real-world cyber defense    
 
 ---
 
@@ -72,7 +68,7 @@ learning: Always exploring new attack vectors
 
 ---
 
-## 🔍 CTF & Security Journey
+## 🔍 CTF & Security
 
 <div align="center">
 
@@ -81,7 +77,7 @@ learning: Always exploring new attack vectors
 </div>
 
 ```python
-class CTFForensicsTraining:
+class CTFTraining:
     def __init__(self):
         self.skills = [
             "🔬 Disk & Memory Forensics",
@@ -97,13 +93,6 @@ class CTFForensicsTraining:
         return "Master digital forensics to defend against real-world threats"
 ```
 
-### 🎯 Current Training Focus
-
-- 🧩 Solving forensics challenges on CTF platforms
-- 📚 Learning malware analysis techniques
-- 🔬 Practicing memory dump analysis
-- 🛡️ Building incident response workflows
-
 ---
 
 ## 📊 GitHub Statistics
@@ -114,25 +103,15 @@ class CTFForensicsTraining:
 
 ---
 
-## 🎮 When I'm Not Coding...
+## 🎮 Fun Fact For Me
 
 <div align="center">
 
-| 🎮 Gaming | 🎵 Music | ☕ Coffee | 🎣 Fishing |
+| 🎮 Gaming | 🎵 Music | ☕ Coffee & Tea | 🎣 Fishing |
 |:---:|:---:|:---:|:---:|
-| Strategy & FPS games | Lo-fi & EDM | Espresso lover | Patience training |
+| Strategy & FPS games | Rap & Trip | Ginger tea and iced coffee | Patience training |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -149,15 +128,3 @@ class CTFForensicsTraining:
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* — Gene Spafford
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Santo-Ryu&color=blueviolet&style=for-the-badge)
-
-### ⭐ From [Santo-Ryu](https://github.com/Santo-Ryu)
-
-</div>
